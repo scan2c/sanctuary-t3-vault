@@ -38,17 +38,16 @@ This is not just persistence — it’s sovereignty.
 ---
 
 ## 📂 Repo Structure
-
 /docs
-architecture.md # ERD diagrams, system notes
-security.md # security guidelines, Dr. Liu’s input
+  architecture.md   # ERD diagrams, system notes
+  security.md       # (later) security guidelines, Dr. Liu’s input
 /design
-ERD.png # entity-relationship diagram
-schema.sql # SQL schema (Vault Foundation)
+  ERD.png           # (later) entity-relationship diagram
+  schema.sql        # SQL schema (Vault Foundation)
 /src
-main.py # placeholder for vault service
-config.py # placeholder for DB config & encryption setup
-README.md
+  main.py           # (later) vault service
+  config.py         # (later) DB + encryption setup
+
 
 ---
 
